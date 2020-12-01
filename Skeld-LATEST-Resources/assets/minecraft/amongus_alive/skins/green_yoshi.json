@@ -1,0 +1,144 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "manamodels:entity/green_yoshi",
+		"particle": "manamodels:entity/green_yoshi"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [-6.5, 6.5, 3],
+			"to": [6.5, 24.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.25, 3.5], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 2, 7], "texture": "#0"},
+				"south": {"uv": [2.25, 2.25, 4.5, 5.75], "texture": "#0"},
+				"west": {"uv": [4.5, 4.5, 6.5, 8], "texture": "#0"},
+				"up": {"uv": [4.5, 2, 2.25, 0], "texture": "#0"},
+				"down": {"uv": [8.75, 6.5, 6.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body",
+			"from": [-2.5, 12.5, -2],
+			"to": [2.5, 17.5, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [8.75, 1, 9.5, 1.75], "texture": "#0"},
+				"east": {"uv": [8.75, 1.75, 9.5, 2.5], "texture": "#0"},
+				"south": {"uv": [8.75, 2.5, 9.5, 3.25], "texture": "#0"},
+				"west": {"uv": [8.75, 3.25, 9.5, 4], "texture": "#0"},
+				"up": {"uv": [9.5, 4.75, 8.75, 4], "texture": "#0"},
+				"down": {"uv": [9.5, 6.5, 8.75, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "visor",
+			"from": [-5, 13.5, 2],
+			"to": [5, 21.5, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 2.75, 6.25, 4], "texture": "#0"},
+				"east": {"uv": [4, 5.75, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [0, 7, 1.75, 8.25], "texture": "#0"},
+				"west": {"uv": [8.5, 5.25, 9, 6.5], "texture": "#0"},
+				"up": {"uv": [6.25, 4.5, 4.5, 4], "texture": "#0"},
+				"down": {"uv": [9.25, 4.75, 7.5, 5.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "back",
+			"from": [-5.5, 7, 14],
+			"to": [5.5, 21, 21],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 6.5, 2.75], "texture": "#0"},
+				"east": {"uv": [6.5, 0, 7.5, 2.75], "texture": "#0"},
+				"south": {"uv": [2, 5.75, 4, 8.5], "texture": "#0"},
+				"west": {"uv": [6.5, 2.75, 7.5, 5.5], "texture": "#0"},
+				"up": {"uv": [8.5, 6.5, 6.5, 5.5], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 7.5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "rightleg",
+			"from": [0.4, 0, 5.5],
+			"to": [6.4, 7, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [5.25, 8, 6.25, 9.25], "texture": "#0"},
+				"east": {"uv": [7.5, 1, 8.75, 2.25], "texture": "#0"},
+				"south": {"uv": [0, 8.25, 1, 9.5], "texture": "#0"},
+				"west": {"uv": [7.5, 2.25, 8.75, 3.5], "texture": "#0"},
+				"up": {"uv": [2, 9.5, 1, 8.25], "texture": "#0"},
+				"down": {"uv": [3, 8.5, 2, 9.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "leftleg",
+			"from": [-6.4, 0, 5.5],
+			"to": [-0.4, 7, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [3, 8.5, 4, 9.75], "texture": "#0"},
+				"east": {"uv": [7.5, 3.5, 8.75, 4.75], "texture": "#0"},
+				"south": {"uv": [6.25, 8.5, 7.25, 9.75], "texture": "#0"},
+				"west": {"uv": [4, 8, 5.25, 9.25], "texture": "#0"},
+				"up": {"uv": [8.25, 9.75, 7.25, 8.5], "texture": "#0"},
+				"down": {"uv": [9.25, 8.5, 8.25, 9.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [-5.25, -2.75, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [16, -27.25, -1.75],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "crewmate",
+			"origin": [0, 0, 10],
+			"children": [
+				{
+					"name": "body",
+					"origin": [0, 15.5, 9],
+					"children": [0, 1,
+						{
+							"name": "visor",
+							"origin": [0, 18, 4.5],
+							"children": [2]
+						},
+						{
+							"name": "back",
+							"origin": [-1, 0, 10],
+							"children": [3]
+						}
+					]
+				},
+				{
+					"name": "rightleg",
+					"origin": [3.4, 12.8, 9],
+					"children": [4]
+				},
+				{
+					"name": "leftleg",
+					"origin": [-3.4, 12.8, 9],
+					"children": [5]
+				},
+				{
+					"name": "hitbox",
+					"origin": [0, 12.5, 9],
+					"children": []
+				}
+			]
+		}
+	]
+}
