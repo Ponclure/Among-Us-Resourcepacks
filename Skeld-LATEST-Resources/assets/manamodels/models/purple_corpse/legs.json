@@ -1,0 +1,216 @@
+{
+  "file_name": "legs",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "layer0": "manamodels:entity/purple_corpse"
+  },
+  "elements": [
+    {
+      "name": "legs_0",
+      "from": [
+        5.6,
+        4.3999996,
+        5.3
+      ],
+      "to": [
+        9.2,
+        8.6,
+        9.5
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.0,
+            8.5,
+            8.0,
+            9.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            4.75,
+            9.75,
+            6.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.0,
+            9.75,
+            7.0,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.25,
+            9.75,
+            9.25,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.0,
+            9.75,
+            6.0,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.0,
+            9.75,
+            8.25,
+            11.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "legs_1",
+      "from": [
+        1.3999997,
+        4.3999996,
+        5.3
+      ],
+      "to": [
+        5.0,
+        8.6,
+        9.5
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            8.25,
+            6.0,
+            9.25,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.0,
+            7.25,
+            7.25,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.25,
+            7.25,
+            8.25,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            9.5,
+            7.25,
+            10.5,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.25,
+            7.25,
+            7.25,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            8.25,
+            7.25,
+            9.5,
+            8.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

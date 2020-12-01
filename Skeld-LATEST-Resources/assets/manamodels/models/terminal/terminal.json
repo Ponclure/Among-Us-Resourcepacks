@@ -1,0 +1,804 @@
+{
+  "file_name": "terminal",
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "layer0": "manamodels:entity/terminal"
+  },
+  "elements": [
+    {
+      "name": "terminal_0",
+      "from": [
+        1.6999998,
+        19.399998,
+        14.345
+      ],
+      "to": [
+        14.3,
+        27.5,
+        15.245001
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            3.375,
+            5.25,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            7.375,
+            0.0,
+            7.5,
+            1.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            5.625,
+            0.0,
+            7.375,
+            1.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.625,
+            3.375,
+            7.375,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            3.5,
+            1.75,
+            1.75,
+            1.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            7.5,
+            7.5,
+            7.625,
+            8.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_1",
+      "from": [
+        2.6,
+        13.099998,
+        8.045
+      ],
+      "to": [
+        13.400001,
+        14.0,
+        14.345
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          8.0,
+          13.099998,
+          8.045
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.0,
+            2.0,
+            8.5,
+            2.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.0,
+            5.75,
+            6.875,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.125,
+            1.625,
+            8.625,
+            1.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.125,
+            1.75,
+            8.625,
+            1.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.125,
+            2.0,
+            5.625,
+            1.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.0,
+            5.875,
+            6.875,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_2",
+      "from": [
+        1.6999998,
+        12.199997,
+        7.1450005
+      ],
+      "to": [
+        14.3,
+        13.099998,
+        16.145
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "x",
+        "origin": [
+          8.0,
+          13.099998,
+          8.045
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            5.25,
+            2.125,
+            7.0,
+            3.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.625,
+            2.0,
+            6.875,
+            2.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.125,
+            1.125,
+            8.875,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.125,
+            1.25,
+            8.875,
+            1.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            5.25,
+            3.375,
+            3.5,
+            2.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.0,
+            5.625,
+            7.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_3",
+      "from": [
+        1.6999998,
+        1.3999977,
+        15.245001
+      ],
+      "to": [
+        14.3,
+        32.0,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.125,
+            1.5,
+            8.875,
+            1.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            1.125,
+            7.0,
+            1.25,
+            11.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            1.75,
+            4.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.75,
+            1.75,
+            3.5,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            8.875,
+            1.5,
+            7.125,
+            1.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            1.25,
+            7.0,
+            1.375,
+            11.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_4",
+      "from": [
+        1.6999998,
+        1.3999977,
+        8.045
+      ],
+      "to": [
+        14.3,
+        13.099998,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            0.0,
+            5.875,
+            1.75,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.0,
+            6.0,
+            7.125,
+            7.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.75,
+            0.0,
+            3.5,
+            1.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.25,
+            1.75,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.375,
+            5.625,
+            5.625,
+            4.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            7.0,
+            1.125,
+            8.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_5",
+      "from": [
+        14.3,
+        1.3999977,
+        0.84499955
+      ],
+      "to": [
+        15.2,
+        16.699997,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.375,
+            7.375,
+            7.5,
+            9.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.5,
+            3.5,
+            5.625,
+            5.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.625,
+            7.0,
+            1.75,
+            9.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.125,
+            7.125,
+            7.25,
+            9.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.375,
+            9.375,
+            7.25,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.5,
+            0.0,
+            5.625,
+            2.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_6",
+      "from": [
+        0.7999997,
+        1.3999977,
+        0.84499955
+      ],
+      "to": [
+        1.6999998,
+        16.699997,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            7.375,
+            7.375,
+            9.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.625,
+            0.0,
+            3.5,
+            2.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.75,
+            7.0,
+            1.625,
+            9.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.25,
+            7.125,
+            7.125,
+            9.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.25,
+            9.375,
+            7.375,
+            7.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.625,
+            3.5,
+            3.5,
+            5.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_7",
+      "from": [
+        14.3,
+        16.699997,
+        7.19
+      ],
+      "to": [
+        15.2,
+        32.0,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.25,
+            5.625,
+            7.375,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.5,
+            5.625,
+            4.75,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.375,
+            2.875,
+            7.5,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.375,
+            5.0,
+            7.5,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.25,
+            7.0,
+            7.125,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            4.75,
+            5.625,
+            6.0,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "terminal_8",
+      "from": [
+        0.7999997,
+        16.699997,
+        7.19
+      ],
+      "to": [
+        1.6999998,
+        32.0,
+        16.145
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          1.3999977,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.375,
+            5.625,
+            7.25,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.0,
+            5.625,
+            4.75,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            7.5,
+            2.875,
+            7.375,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            7.5,
+            5.0,
+            7.375,
+            7.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.125,
+            7.0,
+            7.25,
+            5.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            4.75,
+            5.625,
+            3.5,
+            7.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        18.742708,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"layer0": "manamodels:entity/black"
+	},
+	"elements": [
+		{
+			"name": "leftleg_0",
+			"from": [6.2, 5.9, 5.9],
+			"to": [9.8, 10.1, 10.1],
+			"faces": {
+				"north": {"uv": [7.25, 7.25, 8.25, 8.5], "texture": "#layer0", "tintindex": 0},
+				"east": {"uv": [6, 7.25, 7.25, 8.5], "texture": "#layer0", "tintindex": 0},
+				"south": {"uv": [9.5, 7.25, 10.5, 8.5], "texture": "#layer0", "tintindex": 0},
+				"west": {"uv": [8.25, 7.25, 9.5, 8.5], "texture": "#layer0", "tintindex": 0},
+				"up": {"uv": [8.25, 7.25, 7.25, 6], "texture": "#layer0", "tintindex": 0},
+				"down": {"uv": [8.25, 6, 9.25, 7.25], "texture": "#layer0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [35, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, -6.4, 0],
+			"scale": [3.8095, 3.8095, 3.8095]
+		}
+	}
+}

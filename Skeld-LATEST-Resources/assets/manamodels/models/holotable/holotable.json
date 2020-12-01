@@ -1,0 +1,1392 @@
+{
+  "file_name": "holotable",
+  "texture_size": [
+    256,
+    256
+  ],
+  "textures": {
+    "layer0": "manamodels:entity/holotable"
+  },
+  "elements": [
+    {
+      "name": "holotable_0",
+      "from": [
+        12.576501,
+        8.108,
+        5.0975
+      ],
+      "to": [
+        16.032501,
+        9.836,
+        8.1215
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            3.6875,
+            6.25,
+            3.1875,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.75,
+            0.5,
+            7.1875,
+            0.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            4.0,
+            3.75,
+            4.5,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.6875,
+            1.625,
+            7.1875,
+            1.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.1875,
+            6.25,
+            2.6875,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.75,
+            0.75,
+            7.1875,
+            1.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_1",
+      "from": [
+        13.8725,
+        8.108,
+        8.1215
+      ],
+      "to": [
+        15.1685,
+        9.403999,
+        9.849501
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            4.1875,
+            5.0,
+            4.0,
+            5.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.8125,
+            6.75,
+            1.0625,
+            6.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            3.8125,
+            5.625,
+            4.0,
+            5.8125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            3.8125,
+            5.8125,
+            4.0,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            3.8125,
+            5.0,
+            4.0,
+            4.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.75,
+            6.75,
+            6.0,
+            6.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_2",
+      "from": [
+        9.5525,
+        8.108,
+        9.849501
+      ],
+      "to": [
+        15.1685,
+        9.403999,
+        11.1455
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.625,
+            6.6875,
+            0.8125,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.8125,
+            5.25,
+            4.0,
+            5.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.125,
+            6.5,
+            6.9375,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.625,
+            1.25,
+            7.4375,
+            1.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            7.4375,
+            1.625,
+            6.625,
+            1.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.8125,
+            5.4375,
+            4.0,
+            5.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_3",
+      "from": [
+        7.8244996,
+        8.108,
+        8.1215
+      ],
+      "to": [
+        9.5525,
+        9.403999,
+        11.1455
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            3.6875,
+            6.25,
+            3.4375,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.75,
+            6.25,
+            7.1875,
+            6.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.1875,
+            6.3125,
+            1.4375,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.1875,
+            6.5,
+            1.4375,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            3.25,
+            6.0,
+            3.0,
+            5.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.0,
+            6.875,
+            0.4375,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_4",
+      "from": [
+        7.3924994,
+        8.108,
+        5.0975
+      ],
+      "to": [
+        9.984499,
+        12.86,
+        8.1215
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.125,
+            6.5,
+            5.75,
+            6.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            6.0,
+            0.4375,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.4375,
+            6.0,
+            0.8125,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.75,
+            6.0625,
+            6.125,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            5.0,
+            6.5,
+            5.375,
+            6.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            3.4375,
+            6.0,
+            3.875,
+            6.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_5",
+      "from": [
+        3.9364998,
+        8.108,
+        5.9615
+      ],
+      "to": [
+        7.3925,
+        9.403999,
+        7.2574997
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            7.75,
+            6.0625,
+            7.25,
+            6.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.4375,
+            6.875,
+            0.625,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            5.25,
+            5.0625,
+            5.75,
+            5.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.6875,
+            3.8125,
+            7.1875,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            6.75,
+            1.0,
+            7.25,
+            1.1875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            0.625,
+            6.875,
+            0.8125,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_6",
+      "from": [
+        -0.38350034,
+        8.108,
+        5.0975
+      ],
+      "to": [
+        3.9364998,
+        9.403999,
+        10.2815
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.0625,
+            5.5625,
+            1.4375,
+            6.3125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            2.6875,
+            6.6875,
+            3.4375,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.6875,
+            2.1875,
+            7.3125,
+            2.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.6875,
+            3.625,
+            7.3125,
+            3.8125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            5.4375,
+            2.6875,
+            6.0625,
+            3.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.125,
+            6.6875,
+            6.875,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_7",
+      "from": [
+        -5.135502,
+        6.38,
+        0.77749944
+      ],
+      "to": [
+        22.5125,
+        8.54,
+        3.3694997
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.75,
+            1.9375,
+            0.0,
+            1.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.4375,
+            6.6875,
+            3.8125,
+            7.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.125,
+            4.0,
+            4.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            4.0,
+            4.375,
+            8.0,
+            4.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            4.0,
+            3.75,
+            0.0,
+            4.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.6875,
+            1.875,
+            7.0625,
+            2.1875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_8",
+      "from": [
+        18.6245,
+        6.38,
+        1.6414999
+      ],
+      "to": [
+        22.9445,
+        8.972,
+        13.7375
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.4375,
+            1.4375,
+            0.5,
+            2.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.0,
+            0.5,
+            6.75,
+            0.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.0625,
+            3.0,
+            6.6875,
+            3.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.125,
+            6.125,
+            6.75,
+            6.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            4.0,
+            4.6875,
+            4.625,
+            6.4375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.0,
+            0.875,
+            6.75,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_9",
+      "from": [
+        16.8965,
+        6.38,
+        3.3694997
+      ],
+      "to": [
+        22.5125,
+        8.54,
+        12.0095
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            1.25,
+            0.6875,
+            2.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.75,
+            5.0625,
+            7.0,
+            5.375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.1875,
+            5.5625,
+            3.0,
+            5.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.0625,
+            2.6875,
+            6.875,
+            3.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            5.4375,
+            2.6875,
+            4.625,
+            3.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.375,
+            7.0,
+            5.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_10",
+      "from": [
+        -5.135501,
+        6.38,
+        3.3694997
+      ],
+      "to": [
+        -1.6795001,
+        8.54,
+        12.0095
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.375,
+            1.25,
+            0.875,
+            2.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.4375,
+            3.4375,
+            6.6875,
+            3.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            6.125,
+            1.25,
+            6.625,
+            1.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.375,
+            4.6875,
+            6.875,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            3.8125,
+            4.75,
+            3.3125,
+            6.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.75,
+            5.75,
+            7.0,
+            6.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_11",
+      "from": [
+        -1.6795001,
+        6.38,
+        3.3694997
+      ],
+      "to": [
+        16.8965,
+        8.108,
+        12.0095
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.6875,
+            1.25,
+            0.0,
+            2.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.4375,
+            3.75,
+            6.6875,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            5.0,
+            0.0,
+            7.6875,
+            0.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            5.0,
+            0.25,
+            7.6875,
+            0.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            2.6875,
+            1.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.1875,
+            6.0,
+            3.4375,
+            6.25
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_12",
+      "from": [
+        0.91249967,
+        1.6279997,
+        3.3694997
+      ],
+      "to": [
+        16.8965,
+        7.244,
+        12.0095
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            4.0,
+            2.5,
+            1.6875,
+            3.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.8125,
+            4.75,
+            2.0625,
+            5.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            2.6875,
+            0.0,
+            5.0,
+            0.8125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            2.6875,
+            0.8125,
+            5.0,
+            1.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            2.3125,
+            3.75,
+            4.625,
+            5.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            2.0625,
+            4.75,
+            3.3125,
+            5.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_13",
+      "from": [
+        -5.5675,
+        6.38,
+        3.8014998
+      ],
+      "to": [
+        -2.9755,
+        8.972,
+        11.5775
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.3125,
+            1.375,
+            0.9375,
+            2.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            5.0,
+            1.25,
+            6.125,
+            1.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            1.1875,
+            6.6875,
+            1.5625,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            1.5625,
+            6.6875,
+            1.9375,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.8125,
+            6.6875,
+            1.4375,
+            5.5625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            5.25,
+            4.6875,
+            6.375,
+            5.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_14",
+      "from": [
+        -5.999501,
+        6.38,
+        8.553499
+      ],
+      "to": [
+        -3.4075007,
+        9.404,
+        11.1455
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            1.375,
+            1.75,
+            1.0,
+            2.125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            3.875,
+            6.4375,
+            4.25,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.8125,
+            6.3125,
+            1.1875,
+            6.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            4.25,
+            6.4375,
+            4.625,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            1.9375,
+            6.6875,
+            2.3125,
+            7.0625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            4.625,
+            6.4375,
+            5.0,
+            6.875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "name": "holotable_15",
+      "from": [
+        -5.135502,
+        6.38,
+        12.0095005
+      ],
+      "to": [
+        22.5125,
+        8.54,
+        14.6015005
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            2.0625,
+            1.5625,
+            0.0,
+            1.9375
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            6.6875,
+            3.0,
+            7.0625,
+            3.3125
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.4375,
+            4.0,
+            4.75
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            4.625,
+            2.375,
+            8.625,
+            2.6875
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            6.6875,
+            1.625,
+            2.6875,
+            2.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.6875,
+            3.3125,
+            7.0625,
+            3.625
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

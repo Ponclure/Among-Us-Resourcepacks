@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"layer0": "manamodels:entity/blue_ghost"
+	},
+	"elements": [
+		{
+			"name": "back_0",
+			"from": [5.3, 12.2, 10.4],
+			"to": [11.9, 20.6, 14.6],
+			"faces": {
+				"north": {"uv": [12, 13.25, 14, 16], "texture": "#layer0", "tintindex": 0},
+				"east": {"uv": [7, 13.25, 8, 16], "texture": "#layer0", "tintindex": 0},
+				"south": {"uv": [12, 13.25, 14, 16], "texture": "#layer0", "tintindex": 0},
+				"west": {"uv": [9.75, 13.25, 10.75, 16], "texture": "#layer0", "tintindex": 0},
+				"up": {"uv": [10.75, 16, 8.75, 15], "texture": "#layer0", "tintindex": 0},
+				"down": {"uv": [10.75, 15, 12.75, 16], "texture": "#layer0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [35, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, -6.4, 0],
+			"scale": [3.8095, 3.8095, 3.8095]
+		}
+	}
+}

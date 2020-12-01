@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "manamodels:entity/yellow_ghost",
+		"particle": "manamodels:entity/yellow_ghost"
+	},
+	"elements": [
+		{
+			"name": "back_0",
+			"from": [5.3, 12.2, 10.4],
+			"to": [11.9, 20.6, 14.6],
+			"faces": {
+				"north": {"uv": [14, 11.5, 16, 14.25], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [15, 10.75, 16, 13.5], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [14, 11, 16, 13.75], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [15, 10, 16, 12.75], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [16, 12.5, 14, 11.5], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [14, 12.5, 16, 13.5], "texture": "#0", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [35, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, -6.4, 0],
+			"scale": [3.8095, 3.8095, 3.8095]
+		}
+	}
+}

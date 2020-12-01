@@ -1,0 +1,132 @@
+{
+  "file_name": "button",
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "layer0": "manamodels:entity/button"
+  },
+  "elements": [
+    {
+      "name": "button_0",
+      "from": [
+        4.3999996,
+        1.3999997,
+        4.3999996
+      ],
+      "to": [
+        11.6,
+        5.0,
+        11.6
+      ],
+      "rotation": {
+        "angle": 0.0,
+        "axis": "z",
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ]
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            4.0,
+            0.0,
+            6.5,
+            2.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            4.0,
+            6.5,
+            6.5,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            4.0,
+            2.5,
+            6.5,
+            3.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            6.5,
+            6.5,
+            9.0,
+            7.5
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            6.5,
+            6.5,
+            4.0,
+            4.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        },
+        "west": {
+          "uv": [
+            6.5,
+            0.0,
+            9.0,
+            1.0
+          ],
+          "texture": "#layer0",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0.0,
+        -6.4,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        3.8095,
+        3.8095,
+        3.8095
+      ]
+    },
+    "gui": {
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        35.0,
+        225.0,
+        0.0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}
