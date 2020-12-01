@@ -1,0 +1,88 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/red.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E96"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/yellow.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E97"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/purple.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E98"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/green.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E99"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/lime.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/pink.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/brown.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/black.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/orange.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/cyan.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2E9F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/blue.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2EA0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/white.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\u2EA1"]
+        }
+    ]
+}
